@@ -1,0 +1,81 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(91, 29, 60);
+    overflow-x: hidden;
+}
+#container{
+   width: 550px;
+   height: 760px;
+   background-color: rgb(255, 209, 233);
+   box-shadow:  0px 0px 50px rgb(160, 11, 66), 0px 0px 100px rgb(235, 16, 96);
+   margin-left: 220px;
+}
+#container .circle{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(238, 216, 225);
+    border-radius: 70px;
+    box-shadow: 0px 0px 20px rgb(243,165,116), 0px 0px 40px rgb(222, 65, 117);
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px; 
+}
+#container .btwo{
+    height: 280px;
+    width: 280px;
+    margin-top: 0;
+    border-radius: 179px;
+    border: solid 10px white;
+    box-shadow: 0px 0px 90px rgb(243, 165, 116), 0px 0px 190px rgb(222, 65, 117);
+}
+#container .bars{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(238, 216, 225);
+    border-radius: 70px;
+    box-shadow: 0px 0px 20px rgb(243,165,116), 0px 0px 40px rgb(222, 65, 117);
+    margin-left: 380px;
+}
+#container .seven{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+#container .eight{
+    font-size: 20px;
+    margin: 6px;
+}
+#gif{
+     width: 60px;
+     height: 70px;
+     margin-top: 20px;
+     margin-bottom: 0;
+}
+#gif2{
+    width: 60px;
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.four{
+    margin-top: 36px;
+    box-shadow: 0px 0px 30px rgb(243,165,116), 0px 0px 60px rgb(222, 65, 117);
+    border-radius: 30px;
+}
+#ten{
+   font-size: 50px;
+   font-family: fantasy;
+   color: rgb(86, 7, 35);
+   text-align: center;
+   position: absolute;
+   left: 870px;
+   top: 350px;
+   width: 500px;
+}
+.one{
+    letter-spacing: 1px;
+    font-size: 60px;
+    text-shadow: 0 0 5px pink, 0 0 10px white;
+}
+.five{
+    text-shadow: 0 0 5px pink, 0 0 10px white;
+}
